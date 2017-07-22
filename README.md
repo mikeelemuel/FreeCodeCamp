@@ -38,3 +38,10 @@ I  am now working on my
 * Intermediate Front End Development Projects
 * Intermediate Algorithm Scripting
 * Advance Front End Development Projects
+
+# To-Do
+
+* Back End Development Certification
+* Data Visualization Certification
+* Full Stack Development Certification
+
