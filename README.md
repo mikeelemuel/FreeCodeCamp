@@ -8,9 +8,13 @@ If you are a camper or someone who would like to contribute please do not hesita
 Please share this to your friends or the other campers and also share the online courses provided by the freecodecamp.com so it might help people on their web development skills.
 
 # Contact Details
-Mike Lemuel Bacayo
+######Mike Lemuel Bacayo
 
 
 <img src="https://avatars3.githubusercontent.com/u/29329111?v=4&s=460" width="150" height="150">
 
-[GitHub](https://github.com/mikeelemuel) || [FreeCodeCamp](https://www.freecodecamp.org/mikeelemuel) || [LinkedIn](https://www.linkedin.com/in/mike-lemuel-bacayo-b6323612b/) || 
+[GitHub](https://github.com/mikeelemuel) || [FreeCodeCamp](https://www.freecodecamp.org/mikeelemuel) || [LinkedIn](https://www.linkedin.com/in/mike-lemuel-bacayo-b6323612b/) || [Codepen](https://codepen.io/mikeelemuel/pens/public/)
+
+# Status of my BOOTCAMP
+
+I  am now working on my ######Data Visualization Certificate, ######Back End Development Certificate and ######Full Stack Development Certificate.
