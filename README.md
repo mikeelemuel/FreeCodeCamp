@@ -22,4 +22,4 @@ I  am now working on my
 # Certificate
 ###### Certificate of Front End Development Program
 
-<img src="https://scontent.fmnl2-1.fna.fbcdn.net/v/t1.0-9/20264597_10213393810862710_6947110529239989926_n.jpg?oh=b052beb207bed420f1046f2b6d604591&oe=5A116012" width="190" height="190"> 
+<img src="https://scontent.fmnl2-1.fna.fbcdn.net/v/t1.0-9/20264597_10213393810862710_6947110529239989926_n.jpg?oh=b052beb207bed420f1046f2b6d604591&oe=5A116012" width="230" height="190"> 
