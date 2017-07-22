@@ -30,3 +30,11 @@ I  am now working on my
 * HTML5 and CSS
 * Responsive Design with Bootstrap
 * JQuery
+* Basic Front End Development Projects
+* Basic JavaScript
+* Object Oriented Functional Programming
+* Basic Algorithm Scripting
+* JSON APIs and Ajax
+* Intermediate Front End Development Projects
+* Intermediate Algorithm Scripting
+* Advance Front End Development Projects
