@@ -17,4 +17,4 @@ Please share this to your friends or the other campers and also share the online
 
 # Status of my BOOTCAMP
 
-I  am now working on my ######Data Visualization Certificate, ######Back End Development Certificate and ######Full Stack Development Certificate.
+I  am now working on my ###### Data Visualization Certificate, ###### Back End Development Certificate and ######Full Stack Development Certificate.
