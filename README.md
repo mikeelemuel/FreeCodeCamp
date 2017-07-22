@@ -12,3 +12,5 @@ Mike Lemuel Bacayo
 
 
 <img src="https://avatars3.githubusercontent.com/u/29329111?v=4&s=460" width="150" height="150">
+
+[GitHub](https://github.com/mikeelemuel) || [FreeCodeCamp](https://www.freecodecamp.org/mikeelemuel) || [LinkedIn](https://www.linkedin.com/in/mike-lemuel-bacayo-b6323612b/) || 
