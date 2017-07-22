@@ -10,4 +10,4 @@ Please share this to your friends or the other campers and also share the online
 # Contact Details
 
 Mike Lemuel Bacayo
-![Hi!](https://avatars3.githubusercontent.com/u/29329111?v=4&s=460)
+<img src="https://github.com/favicon.ico" width="250" height="250">
