@@ -8,6 +8,5 @@ If you are a camper or someone who would like to contribute please do not hesita
 Please share this to your friends or the other campers and also share the online courses provided by the freecodecamp.com so it might help people on their web development skills.
 
 # Contact Details
-
 Mike Lemuel Bacayo
-<img src="https://avatars3.githubusercontent.com/u/29329111?v=4&s=460" width="250" height="250">
+<img src="https://avatars3.githubusercontent.com/u/29329111?v=4&s=460" width="150" height="150">
