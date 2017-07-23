@@ -1,0 +1,152 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+body {
+  background-color: #000 ;
+  font-family: 'Roboto', sans-serif;
+  color: #47525e;
+}
+
+.vis-bg {
+  background-color: grey;
+}
+
+.container {
+  margin: 50px auto;
+  height: auto;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.top-row {
+  margin: 40px 0 auto;
+}
+
+.title-header {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+#first-row {
+  margin: 40px 0 0 0;
+}
+
+.pic-caption {
+  margin: 10px 0 0 0;
+}
+
+#life-time {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+#name h1 {
+  font-size: 40px;
+  font-weight: 400;
+  margin: -11px 0 0 -2px;
+}
+
+#life-and-death {
+  margin: 0;
+  font-size: 25px;
+}
+
+#professions h2 {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 5px 0 0 0;
+}
+
+#short-desc {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+.spacer {
+  background-color: black;
+  height: 4px;
+}
+
+#prof-desc {
+  margin: 10px 0 10px 15px;
+}
+
+#timeline-divider {
+  margin: 30px auto 25px auto;
+  height: 5px;
+}
+
+#list-timeline {
+  margin: 20px 0 0 0;
+}
+
+#list-timeline li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+#photo-row-1 {
+  margin: 30px 0 0 0;
+}
+
+#photo-row-2 {
+  margin: 20px 0 0 0;
+}
+
+.photo-row-inner img {
+  transition: all .2s ease-in-out;
+  opacity: 0.8;
+}
+
+.photo-row-inner img:hover {
+  transform: scale(0.95);
+  opacity: 1;
+}
+
+.caption {
+  margin-top: 10px;
+}
+
+.block-quote {
+  margin-top: 60px;
+}
+
+.block-quote-space {
+  height: 6px;
+  background-color: #a2a2a2;
+  margin: 40px 0 0 0;
+}
+
+.quote {
+  font-family: 'Playfair Display';
+  font-size: 18px;
+  color:#16191d;
+}
+
+.music-header {
+  margin: 60px 0 20px 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.music-player {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.music-desc {
+  margin: 10px 0 40px 0;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: black;
+  height: 80px;
+  padding: 0 0 0 0;
+  margin: 0 auto 40px auto;
+  font-size: 18px;
+}
+
+.small-note {
+  font-size: 12px;
+}
