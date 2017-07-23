@@ -38,6 +38,9 @@ I  am now working on my
 * Intermediate Front End Development Projects
 * Intermediate Algorithm Scripting
 * Advance Front End Development Projects
+* Git
+* Node.js and Express.js
+* Angular.js
 
 # To-Do
 
