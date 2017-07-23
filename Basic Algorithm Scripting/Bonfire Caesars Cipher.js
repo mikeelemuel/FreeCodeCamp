@@ -1,4 +1,19 @@
+/*
 
+One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
+
+
+
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+*/
 function rot13(str) { // LBH QVQ VG!
 
   var newString = [];
