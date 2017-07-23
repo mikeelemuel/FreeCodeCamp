@@ -1,4 +1,28 @@
+/*
+Create a function that sums two arguments together. If only one argument is provided, then return a function that expects one argument and returns the sum.
 
+For example, addTogether(2, 3) should return 5, and addTogether(2) should return a function.
+
+Calling this returned function with a single argument will then return the sum:
+
+var sumTwoAnd = addTogether(2);
+
+sumTwoAnd(3) returns 5.
+
+If either argument isn't a valid number, return undefined.
+
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function addTogether() {
   var checkNum = function(num) {
     if (typeof num !== 'number') {

@@ -1,4 +1,24 @@
+/*
+Translate the provided string to pig latin.
 
+Pig Latin takes the first consonant (or consonant cluster) of an English word, moves it to the end of the word and suffixes an "ay".
+
+If a word begins with a vowel you just add "way" to the end.
+
+Input strings are guaranteed to be English words in all lowercase.
+
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function translatePigLatin(str) {
   // Create variables to be used
   var pigLatin = '';

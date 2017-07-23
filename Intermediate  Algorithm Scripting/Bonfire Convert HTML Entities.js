@@ -1,4 +1,18 @@
+/*
+Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
 
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function convertHTML(str) {
   // &colon;&rpar;
   var temp = str.split('');

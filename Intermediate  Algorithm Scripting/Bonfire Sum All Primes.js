@@ -1,4 +1,22 @@
+/*
+Sum all the prime numbers up to and including the provided number.
 
+A prime number is defined as a number greater than one and having only two divisors, one and itself. For example, 2 is a prime number because it's only divisible by one and two.
+
+The provided number may not be a prime.
+
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function sumPrimes(num) {
   var res = 0;
 

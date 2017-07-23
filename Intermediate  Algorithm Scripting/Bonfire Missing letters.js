@@ -1,4 +1,20 @@
+/*
+Find the missing letter in the passed letter range and return it.
 
+If all letters are present in the range, return undefined.
+
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function fearNotLetter(str) {
   var firstCharacter = str.charCodeAt(0);
   var valueToReturn = '';

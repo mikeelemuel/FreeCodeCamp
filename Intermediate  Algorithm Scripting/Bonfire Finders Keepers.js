@@ -1,4 +1,18 @@
+/*
+Create a function that looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument).
 
+Your goal is to fix the failing test.
+First, run all the tests by clicking "Run code" or by pressing Control + Enter
+The failing test is in red. Fix the code so that all tests pass. Then you can move on to the next
+Bonfire.
+
+
+Coded by Mike Lemuel Bacayo
+mike.lemuelbacayo@gmail.com
+http://www.freecodecamp.com/mikeelemuel
+
+
+*/
 function findElement(arr, func) {
   var num;
 
